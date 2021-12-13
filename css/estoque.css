@@ -1,0 +1,8 @@
+.conferir-estoque{
+    display: none;
+}
+
+.aparecer-conferir-estoque{
+    display: block;
+    transition: 1s;
+}
